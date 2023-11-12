@@ -1,0 +1,14 @@
+.vscode
+
+__pycache__
+.DS_Store
+.mypy_cache
+.ruff_cache
+
+.env
+
+coverage*
+.coverage
+.pytest_cache
+htmlcov
+test-report.xml
