@@ -1,1 +1,1 @@
-# Creating a streaming AI assistant with ChatGPT, FastAPI, WebSockets and React ✨🤖🚀
+# Streaming AI assistant with ChatGPT, FastAPI, WebSockets and React ✨🤖🚀
